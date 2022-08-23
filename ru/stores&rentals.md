@@ -19,7 +19,7 @@
 ### North Face
 | **Онлайн** | https://www.thenorthface.ge |
 | - | - |
-| **Адреса** | [2/4 Shota Rustaveli Ave](https://goo.gl/maps/SUQjrh59shi2TfCH7) \ [Galleria Tbilisi 3 Floor](https://goo.gl/maps/fBXSvY9gZEMMdts66) \ [68 Adam Mitskevichi St](https://goo.gl/maps/QmcdXVpPYe9CLAxWA) |
+| **Адреса** | [2/4 Shota Rustaveli Ave](https://goo.gl/maps/SUQjrh59shi2TfCH7) \s\s [Galleria Tbilisi 3 Floor](https://goo.gl/maps/fBXSvY9gZEMMdts66) \s\s [68 Adam Mitskevichi St](https://goo.gl/maps/QmcdXVpPYe9CLAxWA) |
 
 
 Одежда, турснар, скалолазное, веревки
