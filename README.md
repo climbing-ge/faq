@@ -8,4 +8,4 @@
 # Contribution rules
 - You found a problem with some content? Please, help us to be better: [write us here](https://github.com/climbing-ge/guide/issues/new)
 - Please, dont merge without a PR review
-- Update all supproted languages in the same PR
+- Update all supported languages in the same PR
