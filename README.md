@@ -1,5 +1,5 @@
 # Disclaimer
-Копия FAQ телеграмм сообщества о скалолазании в Тбилиси/Грузии для тех кто гитом пользуется больше чем вордом [@climbing_ge](https://t.me/climbing_ge)
+Копия FAQ телеграмм сообщества о скалолазании в Тбилиси/Грузии [@climbing_ge](https://t.me/climbing_ge) для тех кто гитом пользуется больше чем вордом
 # Languages
 - [русский](ru/general.md)
 - english (in progress)
