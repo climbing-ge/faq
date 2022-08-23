@@ -18,7 +18,7 @@
 
 | Расположение | Стоимость | Часы работы |
 | - | - | - |
-| [Tbilisi, Merab Kostava street 37-A*](https://goo.gl/maps/MwkfixkarS6eiiPf7)   | Разовое 10 GEL, абонемент 60 GEL /месяц | 11:00 &ndash; 23:00** *** |
+| [Tbilisi, Merab Kostava street 37-A](https://goo.gl/maps/MwkfixkarS6eiiPf7)*   | Разовое 10 GEL, абонемент 60 GEL /месяц | 11:00 &ndash; 23:00** *** |
 
 \* Вход с другой стороны от шахматного клуба  
 \** (кроме крупных государственных праздников Грузии)  
