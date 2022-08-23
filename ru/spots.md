@@ -11,7 +11,7 @@
 
 
 ## Монумент
-**Сложность**:: 5b - 6с
+**Сложность**: 5b - 6с
 **Расположение:** https://maps.app.goo.gl/if8FUeyj2MJdraK6A
 **Гайды:**  https://climbing.ge/outdoor/Urban_Climbing_In_Tbilisi
 
