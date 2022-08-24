@@ -8,7 +8,7 @@
 | **Address** | [25 Vazha Pshavela Ave](https://g.page/MplusGeorgia?share) |
 
 **Selling**: Outdoor clothing, outdoor gear, climbing gear inc. ropes  
-**Renting**: ?
+**Renting**: Outdoor clothing, outdoor gear, skiing&amp;snowboarding, bicycles, climbing gear(no ropes)
 
 ### Xtreme
 | **Online** | https://xtreme.ge |
