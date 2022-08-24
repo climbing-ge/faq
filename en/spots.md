@@ -5,7 +5,7 @@
 **Guides:** https://climbing.ge/outdoor/Climbing_In_%22Tbilisi_Botanical_Garden%22, но есть и в приложениях, типа 27Crags  
 **Best timing:** It is hot during the day, better to climb early in the morning or in the eve  
 
-Lots of people. People share gear. No need to bring all the gear, you can (almost) always find people to climb with
+A very popular place. People are quite happy to share gear. No need to bring all of it, you can (almost) always find a company to climb with.
 
 Most of the routes are sport.
 
