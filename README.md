@@ -7,6 +7,9 @@ A copy of the FAQ of the climbing online telegram community [@climbing_ge](https
 - [english](en/general.md)
 - ქართველი (?)
 
+# Trips
+- [Bolting trip](ru/trips/bolting-0922.md)  / end of Sept '22
+
 # Contribution rules
 - You found a problem with some content? Please, help us to be better: [write us here](https://github.com/climbing-ge/guide/issues/new)
 - Please, dont merge without a PR review
