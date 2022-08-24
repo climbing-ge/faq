@@ -2,6 +2,7 @@
 
 ## The goal
 - to learn routes setting, bolting and cleaning
+- to contribute to georgian climbing community
 - to have fun
 
 ## The list of participants
